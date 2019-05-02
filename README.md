@@ -18,7 +18,7 @@ The following could be used in an [RSF Sequence](https://github.com/rapid-sensem
 ```json
 {
     "id": "rsf-pairwise-comparison",
-    "description": "Tell people what it does",
+    "description": "Iterate through all the combinations in a list of statements getting peoples choices on them",
     "language": "node",
     "contract": {
         "needs": {
