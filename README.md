@@ -45,7 +45,7 @@ The following could be used in an [RSF Sequence](https://github.com/rapid-sensem
     },
     "dependencies_file": {
         "dependencies": {
-            "rsf-pairwise-comparison": "0.0.11"
+            "rsf-pairwise-comparison": "0.0.12"
         }
     },
     "code_file": "require('rsf-pairwise-comparison').main(__dirname)"
